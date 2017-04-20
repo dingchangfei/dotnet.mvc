@@ -12,6 +12,7 @@ namespace dotnet.mvc
 {
     public class Startup
     {
+        //start up
         public Startup(IHostingEnvironment env)
         {
             var builder = new ConfigurationBuilder()
